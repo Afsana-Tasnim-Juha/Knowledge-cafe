@@ -1,0 +1,44 @@
+[
+    {
+        "id": 98765,
+        "cover": "https://example.com/cover-image.jpg",
+        "title": "The Adventures of Fictional Characters",
+        "author": "John Smith",
+        "author_img": "https://example.com/author-image.jpg",
+        "posted_date": "October 5, 2023",
+        "reading_time": 15,
+        "hashtags": [
+            "#Fiction",
+            "#Adventure",
+            "#Writing"
+        ]
+    },
+    {
+        "id": 54321,
+        "cover": "https://example.com/another-cover.jpg",
+        "title": "The Art of Culinary Delights",
+        "author": "Alice Johnson",
+        "author_img": "https://example.com/alice-image.jpg",
+        "posted_date": "September 15, 2023",
+        "reading_time": 12,
+        "hashtags": [
+            "#Cuisine",
+            "#Cooking",
+            "#Foodie"
+        ]
+    },
+    {
+        "id": 78901,
+        "cover": "https://example.com/yet-another-cover.jpg",
+        "title": "Exploring Hidden Gems in Nature",
+        "author": "David Wilson",
+        "author_img": "https://example.com/david-image.jpg",
+        "posted_date": "August 28, 2023",
+        "reading_time": 20,
+        "hashtags": [
+            "#Nature",
+            "#Exploration",
+            "#Travel"
+        ]
+    }
+]
