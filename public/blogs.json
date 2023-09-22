@@ -6,7 +6,7 @@
         "author": "John Smith",
         "author_img": "https://i.ibb.co/wSRL5Xm/boy1.png",
         "posted_date": "October 5, 2023",
-        "reading_time": 15,
+        "reading_time": 5,
         "hashtags": [
             "#JavaScriptMastery",
             "#ModernWebDevelopment"
@@ -32,7 +32,7 @@
         "author": "Ava Wilson",
         "author_img": "https://i.ibb.co/LP3dvQS/girl1.jpg",
         "posted_date": "August 28, 2023",
-        "reading_time": 20,
+        "reading_time": 14,
         "hashtags": [
             "#SPANavigation",
             "#ReactRouter",
