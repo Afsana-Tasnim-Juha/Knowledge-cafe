@@ -2,43 +2,41 @@
     {
         "id": 98765,
         "cover": "https://i.ibb.co/hKm36qV/1.jpg",
-        "title": "The Adventures of Fictional Characters",
+        "title": "Mastering ES6: A Comprehensive Guide to Modern JavaScript",
         "author": "John Smith",
-        "author_img": "https://example.com/author-image.jpg",
+        "author_img": "https://i.ibb.co/wSRL5Xm/boy1.png",
         "posted_date": "October 5, 2023",
         "reading_time": 15,
         "hashtags": [
-            "#Fiction",
-            "#Adventure",
-            "#Writing"
+            "#JavaScriptMastery",
+            "#ModernWebDevelopment"
         ]
     },
     {
         "id": 54321,
         "cover": "https://i.ibb.co/KL4VPS3/2.png",
-        "title": "The Art of Culinary Delights",
+        "title": "Optimizing React Performance for Large-Scale Applications",
         "author": "Alice Johnson",
-        "author_img": "https://example.com/alice-image.jpg",
+        "author_img": "https://i.ibb.co/TPbm1sn/boy2.jpg",
         "posted_date": "September 15, 2023",
         "reading_time": 12,
         "hashtags": [
-            "#Cuisine",
-            "#Cooking",
-            "#Foodie"
+            "#ReactOptimization",
+            "#LargeScaleApps"
         ]
     },
     {
         "id": 78901,
         "cover": "https://i.ibb.co/RDcqsCq/3.png",
-        "title": "Exploring Hidden Gems in Nature",
-        "author": "David Wilson",
-        "author_img": "https://example.com/david-image.jpg",
+        "title": "React Router: Navigating Single-Page Applications with Ease",
+        "author": "Ava Wilson",
+        "author_img": "https://i.ibb.co/LP3dvQS/girl1.jpg",
         "posted_date": "August 28, 2023",
         "reading_time": 20,
         "hashtags": [
-            "#Nature",
-            "#Exploration",
-            "#Travel"
+            "#SPANavigation",
+            "#ReactRouter",
+            "#FrontEndDevelopment"
         ]
     }
 ]
