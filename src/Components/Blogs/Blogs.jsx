@@ -4,7 +4,10 @@
 import { useEffect, useState } from "react";
 import Blog from "../Blog/Blog";
 
-const Blogs = (handleAddToBookmark) => {
+import PropTypes from 'prop-types';
+
+
+const Blogs = ({ handleAddToBookmark }) => {
     const [blogs, setBlogs] = useState([]); // Use array destructuring to get the state variable and setter function
 
     useEffect(() => {
@@ -27,6 +30,11 @@ const Blogs = (handleAddToBookmark) => {
         </div>
     );
 };
+
+Blogs.propTypes = {
+
+    handleAddToBookmark: PropTypes.func
+}
 
 export default Blogs;
 
