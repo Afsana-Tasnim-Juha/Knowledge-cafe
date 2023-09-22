@@ -2,6 +2,7 @@
 
 
 import { useEffect, useState } from "react";
+import Blog from "../Blog/Blog";
 
 const Blogs = () => {
     const [blogs, setBlogs] = useState([]); // Use array destructuring to get the state variable and setter function
@@ -15,6 +16,13 @@ const Blogs = () => {
     return (
         <div className="md:w-2/3">
             <h1 className="text-4xl">Blogs: {blogs.length}</h1>
+            {
+                blogs.map(blog => <Blog
+                    key={blog.id}
+                    blog={blog}
+                ></Blog>)
+            }
+
         </div>
     );
 };
